@@ -8,4 +8,4 @@ I'm a web-app hacker
 ### 🥦 My Digital Garden 
 
 - d
-- (https://google.com)YouTube channel that I need to post to 🎥
+- <a href="https://google.com">YouTube channel that I need to post to 🎥
