@@ -1,4 +1,4 @@
-[![Jomari's GitHub Banner](./assets/GitHubHeader.png)
+[![Jomari's GitHub Banner(./assets/GitHubHeader.png)
 # 👨🏿‍💻 Jomari Gee
 <br>
 > Web-app hacking and developing Python centric apps/scripts
@@ -13,4 +13,20 @@
 - <a href="https://jomarigee.github.io/">Website</a> where I post writeups🕸️
 - <a href="https://www.youtube.com/c/JomariGee/videos">YouTube channel</a> that I need to post to 🎥
 ## 📌 Pinned Repositories
-https://github.com/JomariGee/Recon
+
+
+<a href=https://github.com/JomariGee/Desk-Sheet">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github.com/JomariGee/Desk-Sheet:&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
+<a href="https://github.com/JomariGee/Recon">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github.com/JomariGee/Recon:&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
+<a href="https://github.com/JomariGee/jomarigee.github.io">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github.com/JomariGee/jomarigee.github.io:&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
