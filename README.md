@@ -14,16 +14,16 @@
 ## 📌 Pinned Repositories
 
 <a href="https://github.com/JomariGee/Desk-Sheet">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=JomariGee/Desk-Sheet:&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34"/>
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=JomariGee&repo=Desk-Sheet:&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34"/>
 </a>
 
-<br>
+
 
 <a href="https://github.com/JomariGee/jomarigee.github.io">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=JomariGee&repo=jomarigee.github.io&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<br>
+
 
 <a href="https://github.com/JomariGee/Recon">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=JomariGee&repo=Recon&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
