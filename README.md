@@ -1,3 +1,4 @@
+[![Jomari's GitHub Banner](./assets/GitHubHeader.png)]
 # 👨🏿‍💻 Jomari Gee
 <br>
 > Web-app hacking and developing Python centric apps/scripts
