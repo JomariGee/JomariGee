@@ -4,7 +4,7 @@ Web-app hacking and developing Python centric apps/scripts
 🛠️ Languages and Tool
 <i class="devicon-devicon-plain"></i>
 
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg'>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg' height="10" width="10">
 ### 🚧 Projects
 
 ### 🥦 My Digital Garden 
