@@ -1,6 +1,6 @@
 ![](./assets/GitHubHeader.png)
 <br>
-> 👨🏿‍💻 Web-app hacking and developing Python centric apps/scripts
+> 👨🏿‍💻 I'm into web-app hacking and developing Python centric apps/scripts
 
 
 ### 🛠️ Languages and Tool
